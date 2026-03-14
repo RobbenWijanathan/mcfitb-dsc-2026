@@ -12,7 +12,7 @@ Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agus
 │   └── Data_Polis.csv        # Profil 4,096 pemegang polis aktif
 │
 ├── output/
-│   ├── predictions_2025.csv  # Hasil prediksi final (Aug–Dec 2025)
+│   ├── predictions_2025_2026.csv  # Hasil prediksi final (Aug 2025–Dec 2026)
 │   └── fig_*.png             # Visualisasi EDA dan evaluasi model
 │
 ├── 26040079_DSC_Notebook_hmm_ywd_gas.ipynb   # Notebook utama
