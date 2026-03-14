@@ -46,7 +46,7 @@ Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agus
 
 1. Letakkan `Data_Klaim.csv` dan `Data_Polis.csv` di folder `data/`
 2. Buka dan jalankan `26040079_DSC_Notebook_hmm_ywd_gas.ipynb`
-3. Hasil prediksi tersimpan otomatis di `output/predictions_2025.csv`
+3. Hasil prediksi tersimpan otomatis di `output/predictions_2025_2026.csv`
 
 ---
 
