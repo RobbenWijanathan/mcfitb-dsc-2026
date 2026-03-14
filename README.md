@@ -1,4 +1,3 @@
-# Insurance Claims Forecasting
 ### Data Science Competition 2026 — MCF ITB
 
 Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agustus–Desember 2025** menggunakan pendekatan *ensemble* model deret waktu berbasis agregasi mingguan.
