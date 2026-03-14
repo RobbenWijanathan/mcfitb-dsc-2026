@@ -1,6 +1,6 @@
 ### Data Science Competition 2026 — MCF ITB
 
-Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agustus–Desember 2025** menggunakan pendekatan *ensemble* model deret waktu berbasis agregasi mingguan.
+Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agustus 2025–Desember 2026** menggunakan pendekatan *ensemble* model deret waktu berbasis agregasi mingguan.
 
 ---
 
@@ -26,7 +26,7 @@ Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agus
 | Item | Detail |
 |------|--------|
 | **Target** | Claim Frequency, Claim Severity, Total Claim |
-| **Horizon** | Agustus – Desember 2025 (5 bulan) |
+| **Horizon** | Agustus 2025 – Desember 2026 (17 bulan) |
 | **Granularitas** | Mingguan → rollup bulanan |
 | **Metrik** | MAPE (Mean Absolute Percentage Error) |
 | **CV MAPE** | 6.22% *(walk-forward, 5 bulan uji)* |
