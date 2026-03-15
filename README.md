@@ -1,4 +1,4 @@
-# 26040079 - Data Science Competition 2026 — MCF ITB - hmm ywd gas
+## 26040079 - Data Science Competition 2026 — MCF ITB - hmm ywd gas
 
 Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agustus 2025–Desember 2026** menggunakan pendekatan *ensemble* model deret waktu berbasis agregasi mingguan.
 
