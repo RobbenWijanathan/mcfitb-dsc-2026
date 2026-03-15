@@ -1,10 +1,10 @@
-### Data Science Competition 2026 — MCF ITB
+# 26040079 - Data Science Competition 2026 — MCF ITB - hmm ywd gas
 
 Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agustus 2025–Desember 2026** menggunakan pendekatan *ensemble* model deret waktu berbasis agregasi mingguan.
 
 ---
 
-## 📁 Struktur Folder
+## Struktur Folder
 
 ```
 ├── data/
@@ -21,7 +21,7 @@ Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agus
 
 ---
 
-## 🔍 Overview
+## Overview
 
 | Item | Detail |
 |------|--------|
@@ -33,7 +33,7 @@ Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agus
 
 ---
 
-## ⚙️ Metodologi
+## Metodologi
 
 1. **Preprocessing** — Filter klaim *paid*, agregasi mingguan (83 titik), *winsorization* ±2.5σ, transformasi log pada total klaim
 2. **Model** — 10 arsitektur: SES, ARIMA, Auto-SARIMA, Theta, NLinear, DLinear, MultiDLinear, LightGBM, Naïve, Seasonal Naïve
@@ -42,7 +42,7 @@ Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agus
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. Letakkan `Data_Klaim.csv` dan `Data_Polis.csv` di folder `data/`
 2. Buka dan jalankan `26040079_DSC_Notebook_hmm_ywd_gas.ipynb`
@@ -50,7 +50,7 @@ Prediksi frekuensi, severitas, dan total klaim asuransi kesehatan periode **Agus
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```
 numpy · pandas · matplotlib · scikit-learn · lightgbm · scipy
